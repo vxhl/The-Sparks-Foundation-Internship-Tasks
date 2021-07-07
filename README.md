@@ -7,7 +7,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month ( July-2020 )
 - **Internship Type** - Work from Home
 
-### # Task-1 : Exploratory Data Analysis - Retail (Level - Beginner)
+### 📊 Task-1 : Exploratory Data Analysis - Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
@@ -23,6 +23,5 @@ audio explaining the charts and interpretations.
 1. Create the dashboards and/or storyboard and record it
 2. Upload the recording either on YouTube or LinkedIn
 3. Create a LinkedIn post as suggested in FAQs
-
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=8eSsy2VedBY&t=157s)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Exploratory_Data_Analysis-Retail)
