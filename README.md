@@ -1,6 +1,6 @@
 # The-Sparks-Foundation-Internship-Tasks
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
-📒 Here I will be documenting and storing the projects that I execute for my internship at [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
+📒 Here I will be documenting and storing the projects that I execute for my internship at <a href = "https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a>
 
 - **Internship Category** - Data Science and Business Analytics
 This repository contains the tasks that I completed while working as an intern for 
