@@ -3,7 +3,6 @@
 📒 Here I will be documenting and storing the projects that I execute for my internship at <a href = "https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a>
 
 - **Internship Category** - Data Science and Business Analytics
-
 - **Internship Duration** - 1 Month ( July-2020 )
 - **Internship Type** - Work from Home
 
