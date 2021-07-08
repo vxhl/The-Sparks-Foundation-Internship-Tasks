@@ -6,7 +6,7 @@
 - **Internship Duration** - 1 Month ( July-2020 )
 - **Internship Type** - Work from Home
 
-### 📊 Task-1 : Exploratory Data Analysis - Retail (Level - Beginner)
+### 📊 Task-03 : Exploratory Data Analysis - Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
