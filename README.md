@@ -29,3 +29,25 @@ audio explaining the charts and interpretations.
 3. Create a LinkedIn post as suggested in FAQs
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=8eSsy2VedBY&t=157s)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Exploratory_Data_Analysis-Retail)
+
+
+### 🌳 Task-03: Prediction using the Decision Tree Algorithm (Level - Intermediate)
+
+Create the Decision Tree classifier and visualize it graphically.
+
+● The purpose is if we feed any new data to this classifier, it would be able to
+predict the right class accordingly.
+
+● Dataset : https://bit.ly/3kXTdox
+
+● Sample Solution : https://bit.ly/2G6sYx9
+
+● Task submission:
+1. Host the code on GitHub Repository (public). Record the code and output
+in a video. Post the video on YouTube
+2. Share links of code (GitHub) and video (YouTube) as a post on YOUR
+LinkedIn profile
+3. Submit the LinkedIn link in Task Submission Form when shared.
+4. Please read FAQs on how to submit the tasks.
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=8eSsy2VedBY&t=157s)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Exploratory_Data_Analysis-Retail)
