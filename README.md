@@ -49,5 +49,5 @@ in a video. Post the video on YouTube
 LinkedIn profile
 3. Submit the LinkedIn link in Task Submission Form when shared.
 4. Please read FAQs on how to submit the tasks.
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=8eSsy2VedBY&t=157s)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Exploratory_Data_Analysis-Retail)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/aAY19ScFvJA)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-6_Prediction_using_Decision_Tree_Classifier)
