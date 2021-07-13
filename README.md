@@ -31,7 +31,7 @@ audio explaining the charts and interpretations.
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Exploratory_Data_Analysis-Retail)
 
 
-### 🌳 Task-03: Prediction using the Decision Tree Algorithm (Level - Intermediate)
+### 🌳 Task-06: Prediction using the Decision Tree Algorithm (Level - Intermediate)
 
 Create the Decision Tree classifier and visualize it graphically.
 
