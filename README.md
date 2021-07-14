@@ -6,7 +6,7 @@
 - **Internship Duration** - 1 Month ( July-2020 )
 - **Internship Type** - Work from Home
 
-### 📈 Task-01: Prediction using Supervised Machine Learning Algorithm (Level - Beginner)
+## 📈 Task-01: Prediction using Supervised Machine Learning Algorithm (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
 ● Predict the percentage of an student based on the no. of study hours.
@@ -32,7 +32,7 @@ YOUR LinkedIn profile, not TSF Network.
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Prediction_using_Supervised_LearningAlgorithms)
 
 
-### 📊 Task-03 : Exploratory Data Analysis - Retail (Level - Beginner)
+## 📊 Task-03 : Exploratory Data Analysis - Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
@@ -57,7 +57,7 @@ audio explaining the charts and interpretations.
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-3_Exploratory_Data_Analysis-Retail)
 
 
-### 🌳 Task-06: Prediction using the Decision Tree Algorithm (Level - Intermediate)
+## 🌳 Task-06: Prediction using the Decision Tree Algorithm (Level - Intermediate)
 
 Create the Decision Tree classifier and visualize it graphically.
 
