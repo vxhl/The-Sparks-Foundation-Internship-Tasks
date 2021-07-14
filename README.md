@@ -29,7 +29,7 @@ output in a video. Post the video on YouTube
 YOUR LinkedIn profile, not TSF Network.
 3. Submit the LinkedIn link in Task Submission Form when shared.
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/vWofYpePAbgs)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/C:\CS_07\Internships\The-Sparks-Foundation-Internship-Tasks\Task-1_Prediction_using_Supervised_LearningAlgorithms)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Prediction_using_Supervised_LearningAlgorithms)
 
 
 ### 📊 Task-03 : Exploratory Data Analysis - Retail (Level - Beginner)
