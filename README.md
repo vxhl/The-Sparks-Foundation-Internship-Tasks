@@ -6,6 +6,24 @@
 - **Internship Duration** - 1 Month ( July-2020 )
 - **Internship Type** - Work from Home
 
+### 📈 Task-01: Prediction using Supervised Machine Learning Algorithm (Level - Beginner)
+_Please click on the images on right side to view my solution._
+● Predict the percentage of an student based on the no. of study hours.
+● This is a simple linear regression task as it involves just 2 variables.
+● You can use R, Python, SAS Enterprise Miner or any other tool
+● Data can be found at http://bit.ly/w-data
+● What will be predicted score if a student studies for 9.25 hrs/ day?
+● Sample Solution : https://bit.ly/2HxiGGJ
+● Task submission:
+1. Host the code on GitHub Repository (public). Record the code and
+output in a video. Post the video on YouTube
+2. Share links of code (GitHub) and video (YouTube) as a post on
+YOUR LinkedIn profile, not TSF Network.
+3. Submit the LinkedIn link in Task Submission Form when shared.
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/vWofYpePAbgs)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/C:\CS_07\Internships\The-Sparks-Foundation-Internship-Tasks\Task-1_Prediction_using_Supervised_LearningAlgorithms)
+
+
 ### 📊 Task-03 : Exploratory Data Analysis - Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
@@ -28,7 +46,7 @@ audio explaining the charts and interpretations.
 2. Upload the recording either on YouTube or LinkedIn
 3. Create a LinkedIn post as suggested in FAQs
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=8eSsy2VedBY&t=157s)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Exploratory_Data_Analysis-Retail)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-3_Exploratory_Data_Analysis-Retail)
 
 
 ### 🌳 Task-06: Prediction using the Decision Tree Algorithm (Level - Intermediate)
