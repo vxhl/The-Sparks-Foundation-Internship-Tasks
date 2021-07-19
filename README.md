@@ -7,6 +7,8 @@
 - **Internship Type** - Work from Home
 
 ## 📈 Task-01: Prediction using Supervised Machine Learning Algorithm (Level - Beginner)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/vWofYpePAbgs)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Prediction_using_Supervised_LearningAlgorithms)
 _Please click on the images on right side to view my solution._
 
 ● Predict the percentage of an student based on the no. of study hours.
@@ -28,11 +30,11 @@ output in a video. Post the video on YouTube
 2. Share links of code (GitHub) and video (YouTube) as a post on
 YOUR LinkedIn profile, not TSF Network.
 3. Submit the LinkedIn link in Task Submission Form when shared.
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/vWofYpePAbgs)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-1_Prediction_using_Supervised_LearningAlgorithms)
 
 
 ## 📊 Task-03 : Exploratory Data Analysis - Retail (Level - Beginner)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=8eSsy2VedBY&t=157s)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-3_Exploratory_Data_Analysis-Retail)
 _Please click on the images on right side to view my solution._
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
@@ -53,11 +55,11 @@ audio explaining the charts and interpretations.
 1. Create the dashboards and/or storyboard and record it
 2. Upload the recording either on YouTube or LinkedIn
 3. Create a LinkedIn post as suggested in FAQs
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=8eSsy2VedBY&t=157s)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-3_Exploratory_Data_Analysis-Retail)
 
 
 ## 🌳 Task-06: Prediction using the Decision Tree Algorithm (Level - Intermediate)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/aAY19ScFvJA)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-6_Prediction_using_Decision_Tree_Classifier)
 
 Create the Decision Tree classifier and visualize it graphically.
 
@@ -75,9 +77,6 @@ in a video. Post the video on YouTube
 LinkedIn profile
 3. Submit the LinkedIn link in Task Submission Form when shared.
 4. Please read FAQs on how to submit the tasks.
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/aAY19ScFvJA)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-6_Prediction_using_Decision_Tree_Classifier)
-
 ## 👨‍👨‍👧‍👦 Task 03: Social Distancing Detection ( Computer Vision and IOT function ) 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/i8FvRgn-BnY)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-3_Social_Distancing_Detector_Computer_Vision_and_IOT)
@@ -96,5 +95,3 @@ LinkedIn profile
 you.
 4. Please read FAQs on how to submit the tasks.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/i8FvRgn-BnY)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-3_Social_Distancing_Detector_Computer_Vision_and_IOT)
