@@ -77,7 +77,7 @@ in a video. Post the video on YouTube
 LinkedIn profile
 3. Submit the LinkedIn link in Task Submission Form when shared.
 4. Please read FAQs on how to submit the tasks.
-## 👨‍👨‍👧‍👦 Task 03: Social Distancing Detection (Computer Vision and IOT function) 
+## 👨‍👨‍👧‍👦 Computer Vision and IOT function Task 03: Social Distancing Detection  
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/i8FvRgn-BnY)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-3_Social_Distancing_Detector_Computer_Vision_and_IOT)
 This project is in regards with the Letter Of Recommendation eligibility criteria. 
