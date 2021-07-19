@@ -1,0 +1,1 @@
+For the the yolo weights and config files: https://drive.google.com/drive/folders/1q4ODURcZiOHQDJOOBuGNCpHOAriDbQPU?usp=sharing
