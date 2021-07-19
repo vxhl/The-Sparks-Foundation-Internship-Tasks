@@ -78,7 +78,9 @@ LinkedIn profile
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/aAY19ScFvJA)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-6_Prediction_using_Decision_Tree_Classifier)
 
-## 👨‍👨‍👧‍👦 Task 03: Social Distancing Detection ( Computer Vision and IOT function )
+## 👨‍👨‍👧‍👦 Task 03: Social Distancing Detection ( Computer Vision and IOT function ) 
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/i8FvRgn-BnY)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-3_Social_Distancing_Detector_Computer_Vision_and_IOT)
 This project is in regards with the Letter Of Recommendation eligibility criteria. 
 
 Implement a real time Social Distancing detector which can identify the
