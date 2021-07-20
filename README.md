@@ -85,13 +85,9 @@ This project is in regards with the Letter Of Recommendation eligibility criteri
 Implement a real time Social Distancing detector which can identify the
 distance between two individuals in a crowd.
 
-❖ Task submission:
-
-1. Host the code on GitHub Repository (public). Record the code and
-output in a video. Post the video on YouTube
-2. Share links of code (GitHub) and video (YouTube) as a post on YOUR
-LinkedIn profile
-3. Submit the LinkedIn link in Task Submission Form when shared with
-you.
-4. Please read FAQs on how to submit the tasks.
-
+## 🌈 Computer Vision and IOT function Task 02: Colour Identification from images
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/-BDKSZTCtGA)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/vxhl/The-Sparks-Foundation-Internship-Tasks/blob/master/Task-2_Color_Identification_in_Images_Computer_Vision_and_IOT)
+● Implement an image color detector which identifies all the colors in an
+image or video.
+● We implement an application that describes the color name and other details in box at location of mouse pointer when user double clicks on image
